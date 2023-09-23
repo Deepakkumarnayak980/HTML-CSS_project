@@ -65,15 +65,15 @@ body {
   max-width: 1154px;
   margin: 0 auto;
   text-align: center;
-  margin-top: 119px;
+  margin-top: 100px;
 }
 
 .hero-heading {
   font-family: "Dela Gothic One", cursive;
   font-style: normal;
-  font-weight: 400;
-  font-size: 104px;
-  line-height: 114px;
+  font-weight: 300;
+  font-size: 100px;
+  line-height: 90px;
   /* or 110% */
   color: #ffc233;
 }
@@ -96,7 +96,4 @@ body {
   position: absolute;
   bottom: 20px;
   right: 40px;
-}
-.scrool{
-  align-items: end;
 }
